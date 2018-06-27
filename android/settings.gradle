@@ -1,0 +1,3 @@
+rootProject.name = 'whopays'
+
+include ':app'
